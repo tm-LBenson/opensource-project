@@ -1,3 +1,4 @@
+- Lewis Benson: I read the Wheel of Time series 9 times. 
 - Alex Johnson: Loves building robots in spare time.
 - Samantha Lee: Can recite π to 100 digits!
 - Ryan Smith: Obsessed with quantum computing theories.
@@ -27,16 +28,16 @@
 - Emma Lewis: Collects rare science fiction first editions.
 - Logan Walker: Developed an app just to organize his comic books.
 - Sophia Young: Knows Klingon better than English.
-- Isaac Robinson: Created a virtual reality world.
+- Isaac Robinson: Created a virtual reality world
 - Victoria Rodriguez: Believes she's cracked the Voynich manuscript.
-- Daniel Martinez: Still uses a flip phone (by choice!).
+- Daniel Martinez: Still uses a flip phone (by choice!
 - Abigail Perez: Has memorized the periodic table.
 - Julian Lee: Writes algorithms for fun.
 - Charlotte Gonzalez: Expert in ancient alien theories.
 - Anthony Rivera: Can fix any computer problem.
 - Mia Sanchez: Collects meteorites from around the world.
 - Joshua Kim: Builds AI models to predict sports results.
-- Harper Lopez: Thinks she's a distant relative of Tesla.
+- Harper Lopez: Thinks she's a distant relative of Tesla
 - Christopher Davis: Has his own YouTube channel for gadget reviews.
 - Avery Ramirez: Learned Elvish for a school project.
 - David Miller: Designs his own board games.
