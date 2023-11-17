@@ -41,6 +41,7 @@
 - Christopher Davis: Has his own YouTube channel for gadget reviews.
 - Avery Ramirez: Learned Elvish for a school project.
 - David Miller: Designs his own board games.
+- Iris Coats watches Nightmare Before Christmas for Halloween and Christmas.
 - Scarlett Gonzalez: Has a blog about unsolved math problems.
 - Andrew Wilson: Claims he's seen a UFO.
 - Evelyn Hernandez: Loves debunking conspiracy theories.
