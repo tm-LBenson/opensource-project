@@ -1,4 +1,4 @@
-- Lewis Benson: I read the Wheel of Time series 9 times. 
+- Lewis Benson: I read the Wheel of Time series 9 times.
 - Alex Johnson: Loves building robots in spare time.
 - Samantha Lee: Can recite π to 100 digits!
 - Ryan Smith: Obsessed with quantum computing theories.
@@ -40,6 +40,7 @@
 - Harper Lopez: Thinks she's a distant relative of Tesla
 - Christopher Davis: Has his own YouTube channel for gadget reviews.
 - Avery Ramirez: Learned Elvish for a school project.
+- Umar Zafar enjoys long drives.
 - David Miller: Designs his own board games.
 - Scarlett Gonzalez: Has a blog about unsolved math problems.
 - Andrew Wilson: Claims he's seen a UFO.
