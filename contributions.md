@@ -11,6 +11,7 @@
 - Lily Anderson: Writes fanfic for Star Trek.
 - Noah Miller: Knows every line from "The Matrix."
 - Grace Thompson: Her cat's named Schrödinger.
+- Gregory Robertson loves books.
 - Aiden Young: Built a drone from scratch.
 - Ava Hernandez: Mastered chess at age 10.
 - Sophia Hall: Expert in Linux, uses it for everything.
