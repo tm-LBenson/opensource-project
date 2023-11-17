@@ -22,6 +22,7 @@
 - Zoe Clark: Builds her own cosplay outfits.
 - Benjamin Green: Owns every Apple product ever made.
 - Amelia Torres: Codes her own video games.
+- John Doe: Enjoys Harry Potter every weekend.
 - Elijah Martin: Teaches robots to paint.
 - Isabella White: Can name every star in the sky.
 - James Harris: Built a working model of the solar system.
